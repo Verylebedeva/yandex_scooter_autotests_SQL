@@ -17,7 +17,6 @@ def change_track_param(t):
 
 def test_get_order_by_number_success_response():
     parpar = get_order_track_number()
-    print (parpar)
 
     params = change_track_param(parpar)
     get_order_response = sender_stand_request.get_order_by_track_number(params)
