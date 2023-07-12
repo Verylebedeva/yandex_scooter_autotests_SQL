@@ -1,0 +1,1 @@
+# yandex_scooter_autotests_SQL
